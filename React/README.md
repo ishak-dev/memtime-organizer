@@ -1,6 +1,6 @@
-# Memtime Interview App
+# Memtime
 
-React + Vite + TypeScript client for the Memtime interview API: browse clients → projects → tasks, list time entries, and create/update entries.
+React + Vite + TypeScript, browse clients → projects → tasks, list time entries, and create/update entries.
 
 ![App screenshot](./public/ss.png)
 
